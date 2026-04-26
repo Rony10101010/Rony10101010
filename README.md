@@ -31,13 +31,6 @@ I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Archite
 
 ---
 
-## 📊 GitHub Stats
-
-![Rony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rony12310&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rony12310&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rony-dawoud)
