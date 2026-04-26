@@ -31,6 +31,14 @@ I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Archite
 
 ---
 
+## 💬 Quote
+
+<a href="https://github.com/piyushsuthar/github-readme-quotes" style="display:inline-block; border-radius:12px; overflow:hidden; border:1px solid #e1e4e8;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" alt="Developer Quote" style="display:block;">
+</a>
+
+---
+
 ## 🌐 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rony-dawoud)
