@@ -1,5 +1,5 @@
 # Hi, I'm Rony Dawoud 👋
-Flutter Developer based in Germany 🇩🇪
+Flutter Developer
 
 I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Architecture — with a focus on performance, scalability, and clean code.
 
