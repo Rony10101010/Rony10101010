@@ -30,7 +30,7 @@ I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Archite
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Provider](https://img.shields.io/badge/Provider-4285F4?style=for-the-badge&logo=flutter&logoColor=white)
-<img src="assets/bloc-banner.png" alt="BLoC" width="120">
+<img src="assets/bloc-banner.png" alt="BLoC" height="28">
 ![RESTful API](https://img.shields.io/badge/%7B%7D-RESTful%20API-4CAF50?style=for-the-badge&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
