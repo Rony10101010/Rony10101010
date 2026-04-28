@@ -17,7 +17,7 @@ I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Archite
 | Project | Description |
 |---------|-------------|
 | [Virtual Mouse](https://github.com/Rony10101010/virtual-mouse) | Gesture-controlled mouse using MediaPipe and OpenCV |
-| Deepfake Detection | Deep learning model to detect AI-generated facial manipulations |
+| [Deepfake Detection](https://github.com/Rony10101010/deepfake-detection) | Deep learning model to detect AI-generated facial manipulations |
 
 ---
 
