@@ -13,20 +13,6 @@ I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Archite
 
 ---
 
-## 🧱 How I Build
-- Clean Architecture (data / domain / presentation)
-- BLoC for predictable state management
-- Repository pattern + use cases
-- GetIt for dependency injection
-- Tested on 20+ device models before release
-
----
-
-## 🐍 Also Exploring
-When not building apps, I let Python do the fun stuff — computer vision, automation, and whatever looks interesting.
-
----
-
 ## 🛠️ What I Work With
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -41,6 +27,20 @@ When not building apps, I let Python do the fun stuff — computer vision, autom
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 🧱 How I Build
+- Clean Architecture (data / domain / presentation)
+- BLoC for predictable state management
+- Repository pattern + use cases
+- GetIt for dependency injection
+- Tested on 20+ device models before release
+
+---
+
+## 🐍 Also Exploring
+When not building apps, I let Python do the fun stuff — computer vision, automation, and whatever looks interesting.
 
 ---
 
