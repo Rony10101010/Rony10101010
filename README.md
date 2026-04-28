@@ -23,7 +23,7 @@ I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Archite
 ---
 
 ## 🐍 Also Exploring
-`When not building apps, I let Python do the fun stuff — computer vision, automation, and whatever looks interesting.`
+When not building apps, I let Python do the fun stuff — computer vision, automation, and whatever looks interesting.
 
 ---
 
