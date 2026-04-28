@@ -10,8 +10,14 @@ I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Archite
 | [OrangePal](https://play.google.com/store/apps/details?id=com.raizer.michelfitness) | Google Play | Fitness app with personalized meal plans and workout routines |
 | [Al Hakawatieh](https://apps.apple.com/us/app/alhakawatieh/id6739770522) | App Store & Google Play | Children's storytelling app with dual child/parent modes |
 | Script | Internal | Conference management system with real-time check-in and seat planning |
-| [Virtual Mouse](https://github.com/Rony10101010/virtual-mouse) | GitHub | Gesture-controlled mouse using MediaPipe and OpenCV |
-| Deepfake Detection | Uni Project | Deep learning model to detect AI-generated facial manipulations |
+
+---
+
+## 🎓 Uni Projects
+| Project | Description |
+|---------|-------------|
+| [Virtual Mouse](https://github.com/Rony10101010/virtual-mouse) | Gesture-controlled mouse using MediaPipe and OpenCV |
+| Deepfake Detection | Deep learning model to detect AI-generated facial manipulations |
 
 ---
 
