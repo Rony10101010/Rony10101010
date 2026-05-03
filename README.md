@@ -1,10 +1,10 @@
 # Hi, I'm Rony Dawoud 👋
 
-[
+
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&width=435&lines=Flutter+Developer;BLoC+%7C+Clean+Architecture;3+Shipped+Apps+on+iOS+%26+Android;Building+clean%2C+scalable+mobile+apps)
 
-](https://git.io/typing-svg)
+
 
 I build cross-platform iOS & Android apps using Flutter, BLoC, and Clean Architecture — with a focus on performance, scalability, and clean code.
 
